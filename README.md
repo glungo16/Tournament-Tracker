@@ -1,6 +1,8 @@
 # Tournament Tracker
 C# desktop application allowing users to create and play through elimination-style tournaments. Users can create teams, players, and prizes, and the application will automatically generate the rounds and randomized matchups between teams. Each team member will receive tournament and matchup information by email.
 
+<br />
+
 ![Create_Team.png](./Create_Team.png)
 
 <br />
