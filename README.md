@@ -23,4 +23,4 @@ C# desktop application allowing users to create and play through elimination-sty
 
 ## Credits:
 
-This is a project I made based on Tim Corey's course on [creating a C# application from start to finish](https://pages.github.com/](https://www.youtube.com/watch?v=HalXZUHfKLA&list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi)).
+This is a project I made based on Tim Corey's course on [creating a C# application from start to finish](https://www.youtube.com/watch?v=HalXZUHfKLA&list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi).
